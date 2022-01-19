@@ -28,6 +28,13 @@
   border-bottom: 1px solid #d1411e;
 }
 
+.tamanho {
+  color: #d1411e;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
 .sizes {
   width: 40%;
   display: flex;
